@@ -1,5 +1,5 @@
 /*
-&& -> false && true -> fallse "o valor mesmo"
+&& -> false && true -> false "o valor mesmo"
 || -> true || false -> vai retornar "o valor verdadeiro"
 
 FALSY
